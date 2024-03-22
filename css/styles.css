@@ -74,11 +74,12 @@ body, p, h1, h2, input, textarea {
    }
    
    #banner-info img {
-       height: 120px;
+       height: 100px;
+       margin-left: 50px;
        border-radius: 50%;
        background-color: #a3c4c7;
-       margin-top: 25px;
-       margin-bottom: 25px;
+       margin-top: 1px;
+       margin-bottom: 300px;
    }
    
    #banner-info p {
