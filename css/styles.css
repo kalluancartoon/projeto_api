@@ -53,7 +53,7 @@ body, p, h1, h2, input, textarea {
    }
    
    #navbar-list li a:hover {
-       border-bottom: 1px solid #FFF;
+       border-bottom: 1px solid #e0f000;
    }
    
    /* banner */
